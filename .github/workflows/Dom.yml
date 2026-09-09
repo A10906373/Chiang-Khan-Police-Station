@@ -1,0 +1,13 @@
+<html style="color-scheme: light; --liff-base-background-color: #FFFFFF; --liff-base-text-color: #000000; --liff-base-background-rgb-color: 255, 255, 255; --liff-base-text-rgb-color: 0, 0, 0; --liff-light-button-border-color: rgba(0, 0, 0, 0.15); --liff-title-text-color: #111111; --liff-title-background-color: #FFFFFF; --liff-title-button-color: #111111; --liff-icon-color: #111111; --liff-status-bar-color: black; --liff-title-subtext-color: #B7B7B7; --liff-progress-bar-color: #07B53B; --liff-progress-background-color: #EFEFEF; --liff-title-button-area-background-color: rgba(255, 255, 255, 0.12); --liff-title-button-area-border-color: rgba(0, 0, 0, 0.15);">
+<head>…</head>
+<body>
+<div id="app">…</div>
+<script type="text/javascript" src="/static/js/manifest.0d8422026771e35f07c6.js">
+<script type="text/javascript" src="/static/js/vendor.6a3ee3d72eee317a279b.js">
+<script type="text/javascript" src="/static/js/app.a0359ed3a1d761d3695c.js">
+<script src="https://static.line-scdn.net/liff/edge/2/non-ios-extensions_2_22_0.js" type="text/javascript">
+<div id="fb-root" class=" fb_reset">…</div>
+</body>
+<div style="all: initial;">
+<div class="__chobitsu-hide__ luna-dom-highlighter luna-dom-highlighter-platform-mac">…</div>
+</html>
