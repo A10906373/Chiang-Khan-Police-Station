@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="th" style="width: 100%; height: 100%;">
+ 
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="theme-color" content="#3894ee">
+    <title>แผนที่สาขา Police - Longdo Map</title>
+    <link rel="icon" href="https://map.longdo.com/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="https://map.longdo.com/favicon.ico" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+    <link rel="canonical" href="https://map.longdo.com/branches/Police" />
+    <link rel="alternate" hreflang="th" href="https://map.longdo.com/branches/Police" />
+    <link rel="alternate" hreflang="en" href="https://map.longdo.com/branches/Police?lang=en" />
+</head>
+ 
+<body style="width: 100%; height: 100%; margin: 0; padding: 0;">
+    <iframe src="//map.longdo.com/map/?tag=Police&title=&lang=th&lock=false" style="border: none; width: 100%; height: 100%;">
+    </iframe>
+</body>
+ 
+</html>
