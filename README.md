@@ -1,738 +1,418 @@
 <!-- wp:paragraph -->
-<p><a href="https://apps.police.go.th/index.php">RTP Application Center</a></p>
+<p>ข้ามเนื้อหาหลัก</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="https://apps.police.go.th/apps.php?id=10"><img src="https://apps.police.go.th/images/icon/policephonebook2568.png" alt=""/></a></figure>
+<figure class="wp-block-image"><a class="apPOZK" href="https://www.touristpolice.go.th/main"><img src="https://static.wixstatic.com/media/0e5283_d5dd28343ee74382afca498b93d8638b~mv2.png/v1/fill/w_45,h_43,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/S__51896340.png" alt="S__51896340.png"/></a></figure>
 <!-- /wp:image -->
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li><a href="https://neos.oncb.go.th/OS/login">สำนักงาน ปปส จังหวัดเลย</a></li>
-<!-- /wp:list-item -->
+<!-- wp:heading {"level":3,"className":"font_3 wixui-rich-text__text"} -->
+<h3 class="wp-block-heading font_3 wixui-rich-text__text"><a href="https://www.touristpolice.go.th/main" class="wixui-rich-text__text">กองบัญชาการตำรวจท่องเที่ยว<br class="wixui-rich-text__text" />TOURIST POLICE BUREAU</a></h3>
+<!-- /wp:heading -->
 
-<!-- wp:list-item -->
-<li><a href="https://neos.oncb.go.th/OS/login">PolicePhoneBook</a></li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="https://apps.police.go.th/apps.php?id=9"><img src="https://apps.police.go.th/images/icon/crimesonline.png" alt=""/></a></figure>
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/0e5283_bbc95a36781043b181ab9a1b5ea59cc2f000.jpg/v1/fill/w_320,h_149,al_c,q_80,usm_0.33_1.00_0.00,enc_avif,quality_auto/0e5283_bbc95a36781043b181ab9a1b5ea59cc2f000.jpg" alt=""/></figure>
 <!-- /wp:image -->
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li><a href="https://neos.oncb.go.th/OS/login">ปปส จังหวัดเลย</a></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><a href="https://neos.oncb.go.th/OS/login">CRIMES Online</a></li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="https://apps.police.go.th/apps.php?id=8"><img src="https://apps.police.go.th/images/icon/police%204.0.png" alt=""/></a></figure>
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/0e5283_59cabe5a4ea14ace83254cda065e7192~mv2.jpg/v1/crop/x_0,y_0,w_3933,h_2688/fill/w_318,h_149,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1AB1DFA9-1D37-4911-8C07-90E1610567B4.jpg" alt="1AB1DFA9-1D37-4911-8C07-90E1610567B4.jpg"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li><a href="https://neos.oncb.go.th/OS/login">ปปส จังหวัดเลย</a></li>
-<!-- /wp:list-item -->
+<!-- wp:heading {"level":1,"className":"font_0 wixui-rich-text__text"} -->
+<h1 class="wp-block-heading font_0 wixui-rich-text__text">Tourist Police,<br>Your first friends.loei</h1>
+<!-- /wp:heading -->
 
-<!-- wp:list-item -->
-<li><a href="https://neos.oncb.go.th/OS/login">POLICE 4.0</a></li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
+<!-- wp:heading {"level":1,"className":"font_0 wixui-rich-text__text"} -->
+<h1 class="wp-block-heading font_0 wixui-rich-text__text"></h1>
+<!-- /wp:heading -->
 
-<!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="https://apps.police.go.th/apps.php?id=7"><img src="https://apps.police.go.th/images/icon/policeilertu.png" alt=""/></a></figure>
+<!-- wp:image {"id":120,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="file:///data/user/0/org.wordpress.android/cache/55107829427608084981449.jpg" alt="" class="wp-image-120"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li><a href="https://neos.oncb.go.th/OS/login">ปปส จังหวัดเลย</a></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><a href="https://neos.oncb.go.th/OS/login">Police i lert u</a></li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="https://apps.police.go.th/apps.php?id=6"><img src="https://apps.police.go.th/images/icon/hiway.png" alt=""/></a></figure>
+<!-- wp:image {"id":121,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="file:///data/user/0/org.wordpress.android/cache/50533768833958498035221.jpg" alt="" class="wp-image-121"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li><a href="https://neos.oncb.go.th/OS/login">https://neos.oncb.go.th/OS/login</a></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><a href="https://neos.oncb.go.th/OS/login">Thailand highway Traffic</a></li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="https://apps.police.go.th/apps.php?id=5"><img src="https://apps.police.go.th/images/icon/highwaypolice.png" alt=""/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li><a href="https://neos.oncb.go.th/OS/login">ตำรวจทางหลวงจังหวัดเลย</a></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><a href="https://neos.oncb.go.th/OS/login">Highway Police</a></li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="https://apps.police.go.th/apps.php?id=4"><img src="https://apps.police.go.th/images/icon/kmppp.png" alt=""/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li><a href="https://neos.oncb.go.th/OS/login">https://neos.oncb.go.th/OS/login</a></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><a href="https://neos.oncb.go.th/OS/login">KMPPP</a></li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="https://apps.police.go.th/apps.php?id=3"><img src="https://apps.police.go.th/images/icon/policetv.png" alt=""/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>Police TV</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="https://apps.police.go.th/apps.php?id=2"><img src="https://apps.police.go.th/images/icon/thaipolicehealth.png" alt=""/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li><a href="https://neos.oncb.go.th/OS/login">https://neos.oncb.go.th/OS/login</a></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><a href="https://neos.oncb.go.th/OS/login">Thai Police Health</a></li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="https://apps.police.go.th/apps.php?id=1"><img src="https://apps.police.go.th/images/icon/policecare.png" alt=""/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li><a href="https://neos.oncb.go.th/OS/login">https://neos.oncb.go.th/OS/login</a></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><a href="https://neos.oncb.go.th/OS/login">Police Care</a></li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>สงวนลิขสิทธิ์ พ.ศ. 2560 กลุ่มงานอินเทอร์เน็ต กองบังคับการสนับสนุนทางเทคโนโลยี</p>
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">พันตำรวจโท วิศิษฎ์ ทองโม้ รอง.สวป.ภาคส่วน ประจำการ ลง ตำรวจท่องเที่ยงจังหวัดเลย</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://apps.police.go.th/index.php#" class="sidebar-icon"></a><a href="https://apps.police.go.th/index.php#"></a></p>
+<p>จ่าสิบเอกชวลิตร เวรสวัสดิ์ ผู้กองท่องเที่ยงจังหวัดเลย</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:list -->
-<ul id="menu" class="wp-block-list"><!-- wp:list-item -->
-<li><a href="https://apps.police.go.th/index.php">หน้าหลัก</a></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><a href="https://apps.police.go.th/recommend.php">แอปฯ แนะนำ</a></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><a href="https://apps.police.go.th/public.php">ข้อมูลเผยแพร่</a></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><a href="https://apps.police.go.th/contact.php">ติดต่อเรา</a></li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p><a href="https://apps.police.go.th/index.php">RTP Application Center</a></p>
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">ผู้บัญชาการตำรวจท่องเที่ยว</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.hightechcrime.org/fb-tips" target="_blank" rel="noreferrer noopener"><img src="https://apps.police.go.th/images/icon/article.png" alt=""/></a></figure>
+<figure class="wp-block-image"><a class="apPOZK" href="https://www.touristpolice.go.th/post/tpbnews2025061801" target="_blank" rel="noreferrer noopener"><img src="https://static.wixstatic.com/media/0e5283_3cd5e2fb99e9415d991374c1d41d6a89~mv2.jpg/v1/fill/w_139,h_53,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Blue%20White%20Modern%20Online%20Business%20Webina.jpg" alt="Blue White Modern Online Business Webina"/></a></figure>
 <!-- /wp:image -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>พันตำรวจโทวิศิษฎ์ ทองโม้</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>การใช้ Facebook อย่างปลอดภัย</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.hightechcrime.org/phishing" target="_blank" rel="noreferrer noopener"><img src="https://apps.police.go.th/images/icon/article.png" alt=""/></a></figure>
+<figure class="wp-block-image"><a class="BprtEa" href="https://www.touristpolice.go.th/_files/ugd/0e5283_a99c65ad53af4548ac026da6b301b5bb.pdf" target="_blank" rel="noreferrer noopener"><img src="https://static.wixstatic.com/media/0e5283_4f6b577c0b72465197efe7e847a7baa7~mv2.png/v1/fill/w_120,h_51,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%AF%20%E0%B8%97%E0%B8%94%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%20%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%20%E0%B8%9B%E0%B8%B5%20%E0%B8%9E_%E0%B8%A8_68%20(1).png" alt="ระเบียบฯ ทดสอบความรู้ ด้านภาษาต่างประเทศ ปี พ.ศ.68 (1).png"/></a></figure>
 <!-- /wp:image -->
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>พันตำรวจโทวิศิษฎ์ ทองโม้</li>
-<!-- /wp:list-item -->
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/0e5283_61b1d895a969491586adfdf2883ffdc8~mv2.png/v1/fill/w_560,h_580,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0e5283_61b1d895a969491586adfdf2883ffdc8~mv2.png" alt="Blue Yellow Modern Geometric Business Proposal Presentation.png"/></figure>
+<!-- /wp:image -->
 
-<!-- wp:list-item -->
-<li>เตือนภัย Phishing Email</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/0e5283_140e7494a03d41acaf29f0257f84ca1d~mv2.png/v1/fill/w_45,h_45,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Thailand%20Tourist%20Police.png" alt="Thailand Tourist Police.png"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"className":"font_2 wixui-rich-text__text"} -->
+<h2 class="wp-block-heading font_2 wixui-rich-text__text">die thailändische Touristenpolizei-Applikation</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">Zur Kommunikation Meldung beim Notfall und Bitte um Hilfe Übersetzung und Erkundigung</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">&nbsp;Suche nach den Sehenswürdigkeiten oder den Neuigkeiten über den Tourismus in Thailand</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text">​Kostenloses Herunterladen</p>
+<!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="https://sites.google.com/a/hightechcrime.org/www/usb" target="_blank" rel="noreferrer noopener"><img src="https://apps.police.go.th/images/icon/article.png" alt=""/></a></figure>
+<figure class="wp-block-image"><a class="apPOZK" href="https://apps.apple.com/th/app/thailand-tourist-police/id6479636779" target="_blank" rel="noreferrer noopener"><img src="https://static.wixstatic.com/media/0e5283_c65a589e0fe54a65acc0edfbc4c1c7a7~mv2.png/v1/fill/w_71,h_19,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/btnappstore.png" alt="btnappstore.png"/></a></figure>
 <!-- /wp:image -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>พันตำรวจโทวิศิษฎ์ ทองโม้</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>ป้องกันการติดไวรัสคอมพิวเตอร์จาก USB Flash Drive</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="https://sites.google.com/a/hightechcrime.org/www/wifi" target="_blank" rel="noreferrer noopener"><img src="https://apps.police.go.th/images/icon/article.png" alt=""/></a></figure>
+<figure class="wp-block-image"><a class="apPOZK" href="https://play.google.com/store/apps/details?id=tourist.police.app&amp;pli=1" target="_blank" rel="noreferrer noopener"><img src="https://static.wixstatic.com/media/0e5283_c7756053104149f59468212a2951befb~mv2.png/v1/fill/w_71,h_19,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/btnplaystore.png" alt="btnplaystore.png"/></a></figure>
 <!-- /wp:image -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>พันตำรวจโทวิศิษฎ์ ทองโม้</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>แนะนำวิธีการป้องกันข้อมูลรั่วไหลจากการใช้ WiFi</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="https://sites.google.com/a/hightechcrime.org/www/hlxk-khay-sinkha" target="_blank" rel="noreferrer noopener"><img src="https://apps.police.go.th/images/icon/article.png" alt=""/></a></figure>
+<figure class="wp-block-image"><a class="apPOZK" href="https://appgallery.huawei.com/app/C112570773?sharePrepath=ag&amp;channelId=Thailand+tourist+police&amp;id=ac81fef0741f4ae19860dae42dd74fde&amp;s=500AA3A3ED72A9E8AC80BB02B83EF764963CEE3BE78DB7085D1430A6142FBFC6&amp;detailType=0&amp;v=&amp;callType=AGDLINK&amp;installType=0000&amp;shareTo=qrcode" target="_blank" rel="noreferrer noopener"><img src="https://static.wixstatic.com/media/0e5283_91e2275861074e6cbe8e40bd4dbdd914~mv2.png/v1/fill/w_71,h_19,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Huawei.png" alt="Huawei.png"/></a></figure>
 <!-- /wp:image -->
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>พันตำรวจโทวิศิษฎ์ ทองโม้</li>
-<!-- /wp:list-item -->
+<!-- wp:paragraph {"className":"font_8 wixui-rich-text__text"} -->
+<p class="font_8 wixui-rich-text__text"><a href="https://www.touristpolice.go.th/post/thailand-tourist-policeapplication" target="_blank" rel="noreferrer noopener" class="wixui-rich-text__text">Mehr Erfahren</a></p>
+<!-- /wp:paragraph -->
 
-<!-- wp:list-item -->
-<li>ทำอย่างไร เมื่อตกเป็นเหยื่อถูกหลอกขายสินค้า</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
+<!-- wp:heading {"className":"font_2 wixui-rich-text__text"} -->
+<h2 class="wp-block-heading font_2 wixui-rich-text__text">ภารกิจผู้บังคับบัญชา</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a class="O16KGI pu51Xe NAWdyL xs2MeC" href="https://www.touristpolice.go.th/post/commandernews2026091102">ผบช.ทท. ติดตามความคืบหน้าโครงการก่อสร้างอาคารที่ทำการและที่พักอาศัย บก.ทท.3 ณ ต.ไม้ขาว อ.ถลาง จว.ภูเก็ต</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13 ชั่วโมงที่ผ่านมา</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/7e2eb8_4ffaeb41d361431c9bc12b67f2373ac5~mv2.jpg/v1/fill/w_55,h_55,fp_0.50_0.50,q_90,enc_avif,quality_auto/7e2eb8_4ffaeb41d361431c9bc12b67f2373ac5~mv2.webp" alt="ผบช.ทท. ติดตามความคืบหน้าโครงการก่อสร้างอาคารที่ทำการและที่พักอาศัย บก.ทท.3 ณ ต.ไม้ขาว อ.ถลาง จว.ภูเก็ต"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/7e2eb8_4ffaeb41d361431c9bc12b67f2373ac5~mv2.jpg/v1/fill/w_62,h_62,fp_0.50_0.50,q_90,enc_avif,quality_auto/7e2eb8_4ffaeb41d361431c9bc12b67f2373ac5~mv2.webp" alt="ผบช.ทท. ติดตามความคืบหน้าโครงการก่อสร้างอาคารที่ทำการและที่พักอาศัย บก.ทท.3 ณ ต.ไม้ขาว อ.ถลาง จว.ภูเก็ต"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a class="O16KGI pu51Xe NAWdyL xs2MeC" href="https://www.touristpolice.go.th/post/commandernews2026091102">ผบช.ทท. ติดตามความคืบหน้าโครงการก่อสร้างอาคารที่ทำการและที่พักอาศัย บก.ทท.3 ณ ต.ไม้ขาว อ.ถลาง จว.ภูเก็ต</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/7e2eb8_e88895881cdf4acc9d8b16434b5ebf59~mv2.jpg/v1/fill/w_62,h_62,fp_0.50_0.50,q_90,enc_avif,quality_auto/7e2eb8_e88895881cdf4acc9d8b16434b5ebf59~mv2.webp" alt="ผบช.ทท. ตรวจเยี่ยมการฝึกอบรมการใช้ปืนช๊อตไฟฟ้า TASER ณ บก.ทท.2"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a class="O16KGI pu51Xe NAWdyL xs2MeC" href="https://www.touristpolice.go.th/post/commandernews2026090701">ผบช.ทท. ตรวจเยี่ยมการฝึกอบรมการใช้ปืนช๊อตไฟฟ้า TASER ณ บก.ทท.2</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/7e2eb8_c7e2f6c8f0f4496fadc56b0e91b18b80~mv2.jpg/v1/fill/w_62,h_62,fp_0.50_0.50,q_90,enc_avif,quality_auto/7e2eb8_c7e2f6c8f0f4496fadc56b0e91b18b80~mv2.webp" alt="ผบช.ทท.ตรวจเยี่ยมและมอบสิ่งของบำรุงขวัญ ตร. ส.ทท.2 กก.2 บก.ทท.3 (จว.ระนอง)"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a class="O16KGI pu51Xe NAWdyL xs2MeC" href="https://www.touristpolice.go.th/post/commandernews2026090402">ผบช.ทท.ตรวจเยี่ยมและมอบสิ่งของบำรุงขวัญ ตร. ส.ทท.2 กก.2 บก.ทท.3 (จว.ระนอง)</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/7e2eb8_64d5023d0b104cbb9257307fcb870ab2~mv2.jpg/v1/fill/w_62,h_62,fp_0.50_0.50,q_90,enc_avif,quality_auto/7e2eb8_64d5023d0b104cbb9257307fcb870ab2~mv2.webp" alt="🚨🛡️ เที่ยวพัทยาอย่างมั่นใจ เพราะความปลอดภัยของนักท่องเที่ยวคือภารกิจของเรา"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a class="O16KGI pu51Xe NAWdyL xs2MeC" href="https://www.touristpolice.go.th/post/commandernews2026090401">🚨🛡️ เที่ยวพัทยาอย่างมั่นใจ เพราะความปลอดภัยของนักท่องเที่ยวคือภารกิจของเรา</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/7e2eb8_fc817f00bbdc4762a9187617a08f611d~mv2.jpg/v1/fill/w_62,h_62,fp_0.50_0.50,q_90,enc_avif,quality_auto/7e2eb8_fc817f00bbdc4762a9187617a08f611d~mv2.webp" alt="ผบช.ทท. เป็นประธาน ประชุมบริหาร บช.ทท. ครั้งที่ 8/2569 (สัญจร) พร้อมมอบใบประกาศเกียรติคุณ แก่ข้าราชการ ตร."/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a class="O16KGI pu51Xe NAWdyL xs2MeC" href="https://www.touristpolice.go.th/post/commandernews2026090201">ผบช.ทท. เป็นประธาน ประชุมบริหาร บช.ทท. ครั้งที่ 8/2569 (สัญจร) พร้อมมอบใบประกาศเกียรติคุณ แก่ข้าราชการ ตร.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/7e2eb8_db70d34a7e164c4393b167227e893f40~mv2.jpg/v1/fill/w_62,h_62,fp_0.50_0.50,q_90,enc_avif,quality_auto/7e2eb8_db70d34a7e164c4393b167227e893f40~mv2.webp" alt="กองบัญชาการตำรวจท่องเที่ยวจัดพิธีวันคล้ายวันสถาปนา ครบรอบ 9 ปี"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a class="O16KGI pu51Xe NAWdyL xs2MeC" href="https://www.touristpolice.go.th/post/commandernews2026090102">กองบัญชาการตำรวจท่องเที่ยวจัดพิธีวันคล้ายวันสถาปนา ครบรอบ 9 ปี</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/7e2eb8_9d6676120437439483bd113131a0e9db~mv2.jpg/v1/fill/w_62,h_62,fp_0.50_0.50,q_90,enc_avif,quality_auto/7e2eb8_9d6676120437439483bd113131a0e9db~mv2.webp" alt="🔹รมว.กก.สุรศักดิ์ ปล่อยแถว
+รถโดรนตรวจการณ์ บช.ทท.
+ตามโครงการ 32 คัน ทั่วประเทศ"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a class="O16KGI pu51Xe NAWdyL xs2MeC" href="https://www.touristpolice.go.th/post/commandernews202608281">🔹รมว.กก.สุรศักดิ์ ปล่อยแถว รถโดรนตรวจการณ์ บช.ทท. ตามโครงการ 32 คัน ทั่วประเทศ</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/7e2eb8_51f1189a22b749a88278774290867d3f~mv2.jpg/v1/fill/w_62,h_62,fp_0.50_0.50,q_90,enc_avif,quality_auto/7e2eb8_51f1189a22b749a88278774290867d3f~mv2.webp" alt="🚨 ก่อนส่งคลิป…เช็กกติกาให้ครบ!
+เพราะไอเดียดีแค่ไหน ถ้าผิดเงื่อนไขก็อาจพลาดสิทธิ์ได้ 🎬⚠️"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a class="O16KGI pu51Xe NAWdyL xs2MeC" href="https://www.touristpolice.go.th/post/tpbnews2026082501">🚨 ก่อนส่งคลิป…เช็กกติกาให้ครบ! เพราะไอเดียดีแค่ไหน ถ้าผิดเงื่อนไขก็อาจพลาดสิทธิ์ได้ 🎬⚠️</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"className":"font_2 wixui-rich-text__text"} -->
+<h2 class="wp-block-heading font_2 wixui-rich-text__text">ประชาสัมพันธ์</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3,"className":"font_3 wixui-rich-text__text"} -->
+<h3 class="wp-block-heading font_3 wixui-rich-text__text">ข่าวประกาศและคำสั่ง</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a class="O16KGI pu51Xe NAWdyL xs2MeC" href="https://www.touristpolice.go.th/post/tpbnews2026091101">ประกาศรายชื่อผู้มีสิทธิเข้ารับการทดสอบความรู้ความสามารถด้านภาษาต่างประเทศ (ภาษาอังกฤษ)</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="O16KGI pu51Xe NAWdyL xs2MeC" href="https://www.touristpolice.go.th/post/procurement2026082801">เรื่อง ประกวดราคาจ้างเหมาบริการทำความสะอาดอาคารกองบัญชาการตำรวจท่องเที่ยวประจำปีงบประมาณ พ.ศ. ๒๕๗๐</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="O16KGI pu51Xe NAWdyL xs2MeC" href="https://www.touristpolice.go.th/post/tpbnews2026081501">ขอเชิญชวนนักศึกษาและเยาวชน ร่วมส่งคลิปวิดีโอสั้น TikTok TOURIST POLICE YOUTH CREATOR 2026</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="O16KGI pu51Xe NAWdyL xs2MeC" href="https://www.touristpolice.go.th/post/tpbnews2026081402">กองบัญชาการตำรวจท่องเที่ยว เปิดรับสมัครข้าราชการตำรวจ เข้ารับการทดสอบความรู้ภาษาต่างประเทศ (ภาษาอังกฤษ) ประจำปี พ.ศ. 2569</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>เพิ่มเติม</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"font_3 wixui-rich-text__text"} -->
+<h3 class="wp-block-heading font_3 wixui-rich-text__text">ข่าวรับสมัคร</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a class="O16KGI pu51Xe NAWdyL xs2MeC" href="https://www.touristpolice.go.th/post/procurement2025100601">ประกาศ กองบัญชาการตำรวจท่องเที่ยว สำนักงานตำรวจแห่งชาติ เรื่อง ประกวดราคาซื้อโครงการยกระดับชุดอุปกรณ์ปฏิบัติหน้าที่ (Smart Patrol) 1 โครงการ</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="O16KGI pu51Xe NAWdyL xs2MeC" href="https://www.touristpolice.go.th/post/tpbnews2025071701">รับสมัครข้าราชการตำรวจเข้ารับการทดสอบความรู้ความสามารถด้านภาษาต่างประเทศ (ภาษาษาอังกฤษ) ตามคุณสมบัติเฉพาะสำหรับตำแหน่งของข้าราชการตำรวจในสังกัดกองบัญชาการตำรวจท่องเที่ยวพ.ศ.๒๕๖๘</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="O16KGI pu51Xe NAWdyL xs2MeC" href="https://www.touristpolice.go.th/post/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%97%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87-%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%94%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%A9">ประกาศกองบัญชาการตำรวจท่องเที่ยวเรื่อง รับสมัครข้าราชการตำรวจเข้ารับการทดสอบความรู้ความสามารถด้านภาษาต่างประเทศ (ภาษาอังกฤษ) ประจำปี พ.ศ. 2567</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="O16KGI pu51Xe NAWdyL xs2MeC" href="https://www.touristpolice.go.th/post/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A1%E0%B8%B5%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%94%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8">ประกาศรายชื่อผู้มีสิทธิเข้ารับการทดสอบความรู้ความสามารถด้านภาษาต่างประเทศ</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>เพิ่มเติม</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"font_3 wixui-rich-text__text"} -->
+<h3 class="wp-block-heading font_3 wixui-rich-text__text">จัดซื้อจัดจ้าง/แผน/ตัวชี้วัด</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a class="O16KGI pu51Xe NAWdyL xs2MeC" href="https://www.touristpolice.go.th/post/procurement2026082801">เรื่อง ประกวดราคาจ้างเหมาบริการทำความสะอาดอาคารกองบัญชาการตำรวจท่องเที่ยวประจำปีงบประมาณ พ.ศ. ๒๕๗๐</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="O16KGI pu51Xe NAWdyL xs2MeC" href="https://www.touristpolice.go.th/post/procurement2026052701">เรื่อง ประกาศผู้ชนะการเสนอราคาจัดจ้างโครงการบูรณาการระบบบริการรับแจ้งเหตุนักท่องเที่ยว ๑๑๕๕ และศูนย์ประสานงานการแก้ไขปัญหานักท่องเที่ยวแบบรวมศูนย์ ประจำปีงบประมาณ พ.ศ. ๒๕๖๖๙</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="O16KGI pu51Xe NAWdyL xs2MeC" href="https://www.touristpolice.go.th/post/procurement2026040201">เรื่อง ประกวดราคาซื้อโครงการยกระดับความปลอดภัยพื้นที่ควบคุม (First responder) ๑ โครงการ ประจำปีงบประมาณ พ.ศ. ๒๕๖๙</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="O16KGI pu51Xe NAWdyL xs2MeC" href="https://www.touristpolice.go.th/post/procurement2026032701">ประกาศผู้ชนะการเสนอราคา ประกวดราคาจัดจ้างโครงการพัฒนาเพิ่มประสิทธิภาพการรับแจ้งเหตุฉุกเฉินนักท่องเที่ยวผ่านแอพพลิเคชั่น ระยะที่ ๒ ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>เพิ่มเติม</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/0e5283_23a71768a26b4f7799659e20ab19cc0f~mv2.jpg/v1/fill/w_640,h_794,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0e5283_23a71768a26b4f7799659e20ab19cc0f~mv2.jpg" alt="actor-g563aa3be5_1920_edited.jpg"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":1,"className":"font_0 wixui-rich-text__text"} -->
+<h1 class="wp-block-heading font_0 wixui-rich-text__text">กิจกรรม&nbsp;ของกองบัญชาการตำรวจท่องเที่ยว</h1>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/7e2eb8_e88895881cdf4acc9d8b16434b5ebf59~mv2.jpg/v1/fill/w_278,h_157,fp_0.50_0.50,q_90,enc_avif,quality_auto/7e2eb8_e88895881cdf4acc9d8b16434b5ebf59~mv2.webp" alt="ผบช.ทท. ตรวจเยี่ยมการฝึกอบรมการใช้ปืนช๊อตไฟฟ้า TASER ณ บก.ทท.2"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a class="O16KGI pu51Xe hKl06e xs2MeC" href="https://www.touristpolice.go.th/post/commandernews2026090701">ผบช.ทท. ตรวจเยี่ยมการฝึกอบรมการใช้ปืนช๊อตไฟฟ้า TASER ณ บก.ทท.2</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/7e2eb8_c7e2f6c8f0f4496fadc56b0e91b18b80~mv2.jpg/v1/fill/w_278,h_157,fp_0.50_0.50,q_90,enc_avif,quality_auto/7e2eb8_c7e2f6c8f0f4496fadc56b0e91b18b80~mv2.webp" alt="ผบช.ทท.ตรวจเยี่ยมและมอบสิ่งของบำรุงขวัญ ตร. ส.ทท.2 กก.2 บก.ทท.3 (จว.ระนอง)"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a class="O16KGI pu51Xe hKl06e xs2MeC" href="https://www.touristpolice.go.th/post/commandernews2026090402">ผบช.ทท.ตรวจเยี่ยมและมอบสิ่งของบำรุงขวัญ ตร. ส.ทท.2 กก.2 บก.ทท.3 (จว.ระนอง)</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/7e2eb8_64d5023d0b104cbb9257307fcb870ab2~mv2.jpg/v1/fill/w_278,h_157,fp_0.50_0.50,q_90,enc_avif,quality_auto/7e2eb8_64d5023d0b104cbb9257307fcb870ab2~mv2.webp" alt="🚨🛡️ เที่ยวพัทยาอย่างมั่นใจ เพราะความปลอดภัยของนักท่องเที่ยวคือภารกิจของเรา"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a class="O16KGI pu51Xe hKl06e xs2MeC" href="https://www.touristpolice.go.th/post/commandernews2026090401">🚨🛡️ เที่ยวพัทยาอย่างมั่นใจ เพราะความปลอดภัยของนักท่องเที่ยวคือภารกิจของเรา</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/0e5283_9d3da06d842342d9b6c06fa4ddcf6e22~mv2.jpg/v1/fill/w_255,h_486,al_c,q_80,enc_avif,quality_auto/0e5283_9d3da06d842342d9b6c06fa4ddcf6e22~mv2.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>https://www.youtube.com/embed/fGlN9wF1hqg?autoplay=0&amp;mute=0&amp;controls=1&amp;loop=0&amp;origin=https%3A%2F%2Fwww.touristpolice.go.th&amp;playsinline=1&amp;enablejsapi=1&amp;widgetid=1&amp;forigin=https%3A%2F%2Fwww.touristpolice.go.th%2Fmain&amp;aoriginsup=1&amp;gporigin=https%3A%2F%2Fwww.google.com%2F&amp;vf=1</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>https://www.youtube.com/embed/sgnhbzManvY?autoplay=0&amp;mute=0&amp;controls=1&amp;loop=0&amp;origin=https%3A%2F%2Fwww.touristpolice.go.th&amp;playsinline=1&amp;enablejsapi=1&amp;widgetid=3&amp;forigin=https%3A%2F%2Fwww.touristpolice.go.th%2Fmain&amp;aoriginsup=1&amp;gporigin=https%3A%2F%2Fwww.google.com%2F&amp;vf=1</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>https://www.youtube.com/embed/Wa6ALphMPps?autoplay=0&amp;mute=0&amp;controls=1&amp;loop=0&amp;origin=https%3A%2F%2Fwww.touristpolice.go.th&amp;playsinline=1&amp;enablejsapi=1&amp;widgetid=5&amp;forigin=https%3A%2F%2Fwww.touristpolice.go.th%2Fmain&amp;aoriginsup=1&amp;gporigin=https%3A%2F%2Fwww.google.com%2F&amp;vf=1</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"className":"font_2 wixui-rich-text__text"} -->
+<h2 class="wp-block-heading font_2 wixui-rich-text__text">หน่วยงานที่เกี่ยวข้อง</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4,"className":"font_4 wixui-rich-text__text"} -->
+<h4 class="wp-block-heading font_4 wixui-rich-text__text"><a href="https://www.tourismthailand.org/home" target="_blank" rel="noreferrer noopener" class="wixui-rich-text__text">Tourism Authority<br class="wixui-rich-text__text" />of Thailand<br class="wixui-rich-text__text" />1672</a></h4>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/0e5283_ba1ab39df0c04ac6a03bc4d97fd100cc~mv2.png/v1/fill/w_30,h_32,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TAT_Thai_Logo_edited.png" alt="TAT_Thai_Logo_edited.png"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/0e5283_73b32a83cdac4977a28e6ec165748ff0~mv2.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMM_LOGO_edited.png" alt="IMM_LOGO_edited.png"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4,"className":"font_4 wixui-rich-text__text"} -->
+<h4 class="wp-block-heading font_4 wixui-rich-text__text"><a href="http://www.immigration.go.th/" target="_blank" rel="noreferrer noopener" class="wixui-rich-text__text">Immigration Police<br class="wixui-rich-text__text" />1178</a></h4>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/0e5283_4a0a648654b14e8186445fcc7fae73a5~mv2.jpg/v1/fill/w_32,h_32,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo%20MOST_edited.jpg" alt="logo MOST_edited.jpg"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4,"className":"font_4 wixui-rich-text__text"} -->
+<h4 class="wp-block-heading font_4 wixui-rich-text__text"><a href="https://www.mots.go.th/" target="_blank" rel="noreferrer noopener" class="wixui-rich-text__text">Ministry of Tourism &amp; Sports&nbsp;<br class="wixui-rich-text__text" /></a><a href="tel:+66 2-283-1500" class="wixui-rich-text__text">+66 2-283-1500</a></h4>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/0e5283_33f7099e583940fdb8017d2d469fd710~mv2.png/v1/fill/w_26,h_26,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7_edited.png" alt="Logo กรมการท่องเที่ยว_edited.png"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4,"className":"font_4 wixui-rich-text__text"} -->
+<h4 class="wp-block-heading font_4 wixui-rich-text__text"><a href="https://www.dot.go.th/" target="_blank" rel="noreferrer noopener" class="wixui-rich-text__text">Department of Tourism&nbsp;<br class="wixui-rich-text__text" />+66 2-401-1111</a></h4>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/0e5283_e3cd6826e11a48d99a03aa531098a20f~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/sha_logo_edited.png" alt="sha_logo_edited.png"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4,"className":"font_4 wixui-rich-text__text"} -->
+<h4 class="wp-block-heading font_4 wixui-rich-text__text">SHA&nbsp;<br class="wixui-rich-text__text" />1672</h4>
+<!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="https://sites.google.com/a/hightechcrime.org/www/skimmer" target="_blank" rel="noreferrer noopener"><img src="https://apps.police.go.th/images/icon/article.png" alt=""/></a></figure>
+<figure class="wp-block-image"><a class="apPOZK" href="https://www.tatnews.org/" target="_blank" rel="noreferrer noopener"><img src="https://static.wixstatic.com/media/0e5283_6e2a69f851b145c9a093027351cfc6bd~mv2.jpg/v1/crop/x_52,y_0,w_896,h_334/fill/w_97,h_32,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/messageImage_1678935494151_edited.jpg" alt="messageImage_1678935494151_edited.jpg"/></a></figure>
 <!-- /wp:image -->
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>พันตำรวจโทวิศิษฎ์ ทองโม้</li>
-<!-- /wp:list-item -->
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/0e5283_372920ff141e430e9ab4377280c0d176~mv2.jpg/v1/fill/w_30,h_30,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/download_edited.jpg" alt="download_edited.jpg"/></figure>
+<!-- /wp:image -->
 
-<!-- wp:list-item -->
-<li>การป้องกันคนร้ายขโมยข้อมูลบัตร ATM</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
+<!-- wp:heading {"level":4,"className":"font_4 wixui-rich-text__text"} -->
+<h4 class="wp-block-heading font_4 wixui-rich-text__text">Poh Teck Tung<br class="wixui-rich-text__text" />Foundation&nbsp;<br class="wixui-rich-text__text" />1418</h4>
+<!-- /wp:heading -->
+
+<!-- wp:preformatted -->
+<pre class="wp-block-preformatted"></pre>
+<!-- /wp:preformatted -->
+
+<!-- wp:paragraph -->
+<p><canvas class="CArKdr" width="260" height="146"></canvas></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/0e5283_16a94b12e4804824948de3a8ba205018f000.jpg/v1/fill/w_520,h_292,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/0e5283_16a94b12e4804824948de3a8ba205018f000.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:preformatted -->
+<pre class="wp-block-preformatted"></pre>
+<!-- /wp:preformatted -->
+
+<!-- wp:paragraph -->
+<p><canvas class="CArKdr" width="260" height="146"></canvas></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/0e5283_cfbc2694745643ccb7fd38d267a1ae8af001.jpg/v1/fill/w_520,h_292,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/0e5283_cfbc2694745643ccb7fd38d267a1ae8af001.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://static.wixstatic.com/media/0e5283_8836c49ea09848f4895bc2403c7b0faf~mv2.png/v1/fill/w_60,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Thailand%20Tourist%20Police_edited.png" alt="Thailand Tourist Police_edited.png"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":5,"className":"font_5 wixui-rich-text__text"} -->
+<h5 class="wp-block-heading font_5 wixui-rich-text__text"><a href="https://www.touristpolice.go.th/post/thailand-tourist-policeapplication" target="_blank" rel="noreferrer noopener" class="wixui-rich-text__text">รายละเอียดเพิ่มเติม</a></h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":6,"className":"font_6 wixui-rich-text__text"} -->
+<h6 class="wp-block-heading font_6 wixui-rich-text__text">ТРВ App<br class="wixui-rich-text__text" />Thailand Tourist Police<br class="wixui-rich-text__text" />Application<br class="wixui-rich-text__text" />เพื่อติดต่อสื่อสาร แจ้งเหตุด่วนขอความช่วยเหลือ/แปลภาษาสอบถามข้อมูล<br class="wixui-rich-text__text" />ดูข้อมูลสถานที่ท่องเที่ยวหรือข่าวการท่องเที่ยวภายในประเทศ</h6>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5,"className":"font_5 wixui-rich-text__text"} -->
+<h5 class="wp-block-heading font_5 wixui-rich-text__text">ดาวน์โหลดฟรี</h5>
+<!-- /wp:heading -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="https://sites.google.com/a/hightechcrime.org/www/kar-caeng-lb-khlip-bn-youtube-com" target="_blank" rel="noreferrer noopener"><img src="https://apps.police.go.th/images/icon/article.png" alt=""/></a></figure>
+<figure class="wp-block-image"><a class="apPOZK" href="https://apps.apple.com/th/app/thailand-tourist-police/id6479636779" target="_blank" rel="noreferrer noopener"><img src="https://static.wixstatic.com/media/0e5283_c65a589e0fe54a65acc0edfbc4c1c7a7~mv2.png/v1/fill/w_71,h_19,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/btnappstore.png" alt="btnappstore.png"/></a></figure>
 <!-- /wp:image -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>พันตำรวจโทวิศิษฎ์ ทองโม้</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>การแจ้งลบคลิปวิดีโอบน youtube.com</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=aGlnaHRlY2hjcmltZS5vcmd8d3d3fGd4OjNhZTRiODE1Y2M1YzYyMTg" target="_blank" rel="noreferrer noopener"><img src="https://apps.police.go.th/images/icon/article.png" alt=""/></a></figure>
+<figure class="wp-block-image"><a class="apPOZK" href="https://play.google.com/store/apps/details?id=tourist.police.app&amp;pli=1" target="_blank" rel="noreferrer noopener"><img src="https://static.wixstatic.com/media/0e5283_c7756053104149f59468212a2951befb~mv2.png/v1/fill/w_71,h_19,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/btnplaystore.png" alt="btnplaystore.png"/></a></figure>
 <!-- /wp:image -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>พันตำรวจโทวิศิษฎ์ ทองโม้</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>การแก้ไขปัญหาสื่อสังคมออนไลน์อย่างยั่งยืน โดย พ.ต.อ.นิเวศน์ อาภาวศิน</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=aGlnaHRlY2hjcmltZS5vcmd8d3d3fGd4Ojc4ZjEwYmY4MDM3NDBhZWI" target="_blank" rel="noreferrer noopener"><img src="https://apps.police.go.th/images/icon/article.png" alt=""/></a></figure>
+<figure class="wp-block-image"><a class="apPOZK" href="https://appgallery.huawei.com/app/C112570773?sharePrepath=ag&amp;channelId=Thailand+tourist+police&amp;id=ac81fef0741f4ae19860dae42dd74fde&amp;s=500AA3A3ED72A9E8AC80BB02B83EF764963CEE3BE78DB7085D1430A6142FBFC6&amp;detailType=0&amp;v=&amp;callType=AGDLINK&amp;installType=0000&amp;shareTo=qrcode" target="_blank" rel="noreferrer noopener"><img src="https://static.wixstatic.com/media/0e5283_91e2275861074e6cbe8e40bd4dbdd914~mv2.png/v1/fill/w_71,h_19,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Huawei.png" alt="Huawei.png"/></a></figure>
 <!-- /wp:image -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>พันตำรวจโทวิศิษฎ์ ทองโม้</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>มหันตภัยร้าย WannaCry Ransomware</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=aGlnaHRlY2hjcmltZS5vcmd8d3d3fGd4OjM5ZjIwNWQzMjA5YzNkZjM" target="_blank" rel="noreferrer noopener"><img src="https://apps.police.go.th/images/icon/article.png" alt=""/></a></figure>
+<figure class="wp-block-image"><a class="apPOZK" href="https://www.touristpolice.go.th/main"><img src="https://static.wixstatic.com/media/0e5283_c7a70dd41ba24edfa5cb51361ba52c22~mv2.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo_%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%97%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7-transparent.png" alt="logo_ตำรวจท่องเที่ยว-transparent.png"/></a></figure>
 <!-- /wp:image -->
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>พันตำรวจโทวิศิษฎ์ ทองโม้</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>พ.ร.บ.ว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ (ฉบับที่ 2) พ.ศ.2560</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>สงวนลิขสิทธิ์ พ.ศ. 2560 กลุ่มงานอินเทอร์เน็ต กองบังคับการสนับสนุนทางเทคโนโลยี</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://apps.police.go.th/public.php#" class="sidebar-icon"></a><a href="https://apps.police.go.th/public.php#"></a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul id="menu" class="wp-block-list"><!-- wp:list-item -->
-<li><a href="https://apps.police.go.th/index.php">หน้าหลัก</a></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><a href="https://apps.police.go.th/recommend.php">แอปฯ แนะนำ</a></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><a href="https://apps.police.go.th/public.php">ข้อมูลเผยแพร่</a></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><a href="https://apps.police.go.th/contact.php">ติดต่อเรา</a></li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-[https://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf](https://device.report/siterwell/gs536)
-
-[https://device.report/siterwell/gs536](S/N:25BFA58S08277)
-
-[https://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf](https://th.manuals.plus/baofeng/two-way-uhf-handheld-transceiver-manual)
-
-[https://th.wikipedia.org/w/index.php?title=%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B8%A2&oldid=13261642](S/N:25BFA58S08277)
-
-<!-- wp:paragraph -->
-<p>สภ.ภายใต้สำนักงานตำรวจแห่งชาติ</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%90_%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8A%E0%B8%A3%E0%B9%8C?wprov=sfla1">พลตํารวจเอก กิตติ์รัฐ พันธุ์เพ็ชร์</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://www.oncb.go.th/internal-offices">สำนักงาน ปปส ภาคส่วน จังหวัดเลย</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&amp;view=article&amp;id=24674%3A2011-08-27-09-06-11&amp;catid=892%3A2010-03-01-10-07-55&amp;Itemid=2">ตำรวจภูธรจังหวัดเลย</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&amp;view=article&amp;id=4596%3A2010-05-05-03-18-40&amp;catid=892%3A2010-03-01-10-07-55&amp;Itemid=2">สถานีตำรวจภูธรท่าลี่</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&amp;view=article&amp;id=4594%3A2010-05-05-03-18-07&amp;catid=892%3A2010-03-01-10-07-55&amp;Itemid=2">สถานีตำรวจภูธรเมืองเลย</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&amp;view=article&amp;id=4592%3A2010-05-05-03-17-19&amp;catid=892%3A2010-03-01-10-07-55&amp;Itemid=2">สถานีตำรวจภูธรเอราวัณ</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&view=article&id=4591%3A2010-05-05-03-16-44&catid=892%3A2010-03-01-10-07-55&Itemid=2">สถานีตำรวจภูธรหนองหิน</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&amp;view=article&amp;id=4589%3A2010-05-05-03-16-07&amp;catid=892%3A2010-03-01-10-07-55&amp;Itemid=2">สถานีตำรวจภูธรนาดินดำ</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&amp;view=article&amp;id=4588%3A2010-05-05-03-15-38&amp;catid=892%3A2010-03-01-10-07-55&amp;Itemid=2">สถานีตำรวจภูธรเชียงกลม</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&amp;view=article&amp;id=4586%3A2010-05-05-03-14-37&amp;catid=892%3A2010-03-01-10-07-55&amp;Itemid=2">สถานีตำรวจภูธรโคกงาม</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&amp;view=article&amp;id=4585%3A2010-05-05-03-13-56&amp;catid=892%3A2010-03-01-10-07-55&amp;Itemid=2">สถานีตำรวจภูธรด่านซ้าย</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&amp;view=article&amp;id=4584%3A2010-05-05-03-13-20&amp;catid=892%3A2010-03-01-10-07-55&amp;Itemid=2">สถานีตำรวจภูธรนาด้วง</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&amp;view=article&amp;id=4583%3A2010-05-05-03-12-29&amp;catid=892%3A2010-03-01-10-07-55&amp;Itemid=2">สถานีตำรวจภูธรนาแห้ว</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&amp;view=article&amp;id=4582%3A2010-05-05-03-11-51&amp;catid=892%3A2010-03-01-10-07-55&amp;Itemid=2">สถานีตำรวจภูธรปากชม</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&amp;view=article&amp;id=4581%3A2010-05-05-03-11-14&amp;catid=892%3A2010-03-01-10-07-55&amp;Itemid=2">สถานีตำรวจภูธรผาขาว</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&amp;view=article&amp;id=4580%3A2010-05-05-03-10-45&amp;catid=892%3A2010-03-01-10-07-55&amp;Itemid=2">สถานีตำรวจภูธรภูกระดึง</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&amp;view=article&amp;id=4579%3A2010-05-05-03-10-13&amp;catid=892%3A2010-03-01-10-07-55&amp;Itemid=2">สถานีตำรวจภูธรภูหลวง</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&view=article&id=4577%3A2010-05-05-03-09-22&catid=892%3A2010-03-01-10-07-55&Itemid=2">สถานีตำรวจภูธรภูเรือ</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&view=article&id=4575%3A2010-05-05-03-08-40&catid=892%3A2010-03-01-10-07-55&Itemid=2">สถานีตำรวจภูธรวังสะพุง</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&amp;view=article&amp;id=4574%3A2010-05-05-03-07-57&amp;catid=892%3A2010-03-01-10-07-55&amp;Itemid=2">สถานีตำรวจภูธรหนองหญ้าปล้อง</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&amp;view=article&amp;id=4573%3A2010-05-05-03-07-09&amp;catid=892%3A2010-03-01-10-07-55&amp;Itemid=2">สถานีตำรวจภูธรเชียงคาน</a></p>
-<!-- /wp:paragraph -->
-
-
-
-
-# https://map.longdo.com/branches/Police
-# [Border-Patrol-Police-Unit 261](https://promptpai.com/p/10906373#max)
-# https://github.com/docker-library/php
-
-## Maintained by: [the Docker Community](https://github.com/docker-library/php)
-
-This is the Git repo of the [Docker "Official Image"](https://github.com/docker-library/official-images#what-are-official-images) for [`php`](https://hub.docker.com/_/php/) (not to be confused with any official `php` image provided by `php` upstream). See [the Docker Hub page](https://hub.docker.com/_/php/) for the full readme on how to use this Docker image and for information regarding contributing and issues.
-
-The [full image description on Docker Hub](https://hub.docker.com/_/php/) is generated/maintained over in [the docker-library/docs repository](https://github.com/docker-library/docs), specifically in [the `php` directory](https://github.com/docker-library/docs/tree/master/php).
-
-## See a change merged here that doesn't show up on Docker Hub yet?
-
-For more information about the full official images change lifecycle, see [the "An image's source changed in Git, now what?" FAQ entry](https://github.com/docker-library/faq#an-images-source-changed-in-git-now-what).
-
-For outstanding `php` image PRs, check [PRs with the "library/php" label on the official-images repository](https://github.com/docker-library/official-images/labels/library%2Fphp). For the current "source of truth" for [`php`](https://hub.docker.com/_/php/), see [the `library/php` file in the official-images repository](https://github.com/docker-library/official-images/blob/master/library/php).
-
-<!-- THIS FILE IS GENERATED BY https://github.com/docker-library/docs/blob/master/generate-repo-stub-readme.sh -->
- XML file does not appear to have any style information associated with it. The document tree is shown below.
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
-<channel>
-<title>RouteViews</title>
-<atom:link href="https://www.routeviews.org/routeviews/feed/" rel="self" type="application/rss+xml"/>
-<link>https://www.routeviews.org/routeviews</link>
-<description>University of Oregon RouteViews Project</description>
-<lastBuildDate>Mon, 10 Aug 2026 16:56:44 +0000</lastBuildDate>
-<language>en-US</language>
-<sy:updatePeriod> hourly </sy:updatePeriod>
-<sy:updateFrequency> 1 </sy:updateFrequency>
-<generator>https://wordpress.org/?v=7.1</generator>
-<image>
-<url>https://www.routeviews.org/routeviews/wp-content/uploads/2018/03/RV-logo-new2-150px.png</url>
-<title>RouteViews</title>
-<link>https://www.routeviews.org/routeviews</link>
-<width>32</width>
-<height>32</height>
-</image>
-<item>
-<title>BMP pre-policy rollout</title>
-<link>https://www.routeviews.org/routeviews/2026/08/10/bmp-pre-policy-rollout/</link>
-<dc:creator>
-<![CDATA[ Owen Conway ]]>
-</dc:creator>
-<pubDate>Mon, 10 Aug 2026 16:56:43 +0000</pubDate>
-<category>
-<![CDATA[ Announcement ]]>
-</category>
-<category>
-<![CDATA[ News ]]>
-</category>
-<guid isPermaLink="false">https://www.routeviews.org/routeviews/?p=46115</guid>
-<description>
-<![CDATA[ We will be restarting the following collectors at the listed times (UTC) on 11 August, 2026. Peers should expect to see sessions restart once during the window allocated for reconfiguring each collector. Where possible we have tried to make sure we don&#8217;t restart collectors in the same region at the same time, some overlap isContinue reading &#8594; ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p class="wp-block-paragraph">We will be restarting the following collectors at the listed times (UTC) on 11 August, 2026. Peers should expect to see sessions restart once during the window allocated for reconfiguring each collector. Where possible we have tried to make sure we don&#8217;t restart collectors in the same region at the same time, some overlap is inevitable. </p> <p class="wp-block-paragraph">This update of our BGP daemon will allow us to improve the LiveStream service by supporting pre-policy BMP. We will also be stripping our AS (6447) from all paths in all announcements, which is how our MRT data records the ASPATH. </p> <p class="wp-block-paragraph">Contact us at help@routeviews.org if you have questions.</p> <figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Time (UTC)</th><th>Collector</th><th>Exchange</th></tr></thead><tbody><tr><td rowspan="9">1500-1600</td><td>route-views.chicago</td><td>Equinix Chicago</td></tr><tr><td>route-views.fortaleza</td><td>IX.br &#8211; Fortaleza</td></tr><tr><td>route-views.gixa</td><td>Ghana Internet Exchange</td></tr><tr><td>route-views.napafrica</td><td>Napafrica Johannesburg</td></tr><tr><td>route-views.phoix</td><td>PhOpenIX</td></tr><tr><td>route-views.kixp</td><td>KIXP Nairobi</td></tr><tr><td>route-views.rio</td><td>IX.br &#8211; Rio de Janeiro</td></tr><tr><td>route-views.uaeix</td><td>DE-CIX UAE-IX</td></tr><tr><td>route-views.eqix</td><td>Equinix Ashburn</td></tr><tr><td rowspan="20">1700-1900</td><td>iraq-ixp.bgw</td><td>IRAQIXP</td></tr><tr><td>pacwave.lax</td><td>Pacific Wave</td></tr><tr><td>pit.scl</td><td>PIT &#8211; Santiago CL</td></tr><tr><td>route-views4</td><td>Multihop Collector</td></tr><tr><td>route-views.bdix</td><td>BDIX</td></tr><tr><td>route-views.soxrs</td><td>SOX</td></tr><tr><td>route-views.perth</td><td>IX-Australia (WA/NSW/VIC/QLD/SA/ACT)</td></tr><tr><td>cix.atl</td><td>CIX-ATL</td></tr><tr><td>amsix.ams</td><td>AMS-IX</td></tr><tr><td>route-views7</td><td>Multihop Collector</td></tr><tr><td>pitmx.qro</td><td>PIT &#8211; Queretaro, MX</td></tr><tr><td>route-views.flix</td><td>FL-IX</td></tr><tr><td>route-views.sg</td><td>Equinix Singapore</td></tr><tr><td>route-views6</td><td>Multihop Collector</td></tr><tr><td>route-views.linx</td><td>LINX LON1/LON2</td></tr><tr><td>namex.fco</td><td>NAMEX Rome</td></tr><tr><td>route-views.isc</td><td>Equinix Palo Alto</td></tr><tr><td>route-views.ny</td><td>Equinix New York</td></tr><tr><td>route-views.sydney</td><td>Equinix Sydney</td></tr><tr><td>route-views5</td><td>Multihop Collector</td></tr><tr><td rowspan="24">2100-2300</td><td>crix.sjo</td><td>CRIX</td></tr><tr><td>decix.fra</td><td>DE-CIX Frankfurt</td></tr><tr><td>decix.jhb</td><td>DE-CIX Malaysia (Kuala Lumpur / Cyberjaya / Johor Bahru)</td></tr><tr><td>ix-br.gru</td><td>IX.br &#8211; Sao Paulo</td></tr><tr><td>route-views2</td><td>Multihop Collector</td></tr><tr><td>route-views.sfmix</td><td>SFMIX</td></tr><tr><td>getafix.mnl</td><td>GetaFIX (Manila/Cebu/Davao)</td></tr><tr><td>hkix.hkg</td><td>HKIX</td></tr><tr><td>iix.cgk</td><td>IIX Jakarta</td></tr><tr><td>interlan.otp</td><td>InterLAN IXP</td></tr><tr><td>route-views3</td><td>Multihop Collector</td></tr><tr><td>route-views.telxatl</td><td>DR Atlanta</td></tr><tr><td>ix-br2.gru</td><td>IX.br &#8211; Sao Paulo</td></tr><tr><td>kinx.icn</td><td>KINX</td></tr><tr><td>ixpn.los</td><td>IXPN Lagos</td></tr><tr><td>locix.fra</td><td>LOCIX Frankfurt</td></tr><tr><td>route-views.mwix</td><td>FD-IX Indianapolis</td></tr><tr><td>route-views.wide</td><td>DIX-IE</td></tr><tr><td>netnod.mmx</td><td>Netnod Stockholm / Copenhagen</td></tr><tr><td>route-views.bknix</td><td>BKNIX</td></tr><tr><td>route-views.gorex</td><td>GOREX / DRF-IX / MARIIX</td></tr><tr><td>route-views.nwax</td><td>NWAX</td></tr><tr><td>route-views8</td><td>Multihop Collector</td></tr><tr><td>route-views.peru</td><td>PIT &#8211; Peru</td></tr></tbody></table></figure> <p class="wp-block-paragraph"></p> <p class="wp-block-paragraph"></p> ]]>
-</content:encoded>
-</item>
-<item>
-<title>Alignment of MRT and BMP</title>
-<link>https://www.routeviews.org/routeviews/2026/07/29/alignment-of-mrt-and-bmp/</link>
-<dc:creator>
-<![CDATA[ Hans Kuhn ]]>
-</dc:creator>
-<pubDate>Wed, 29 Jul 2026 19:04:00 +0000</pubDate>
-<category>
-<![CDATA[ Announcement ]]>
-</category>
-<category>
-<![CDATA[ News ]]>
-</category>
-<guid isPermaLink="false">https://www.routeviews.org/routeviews/?p=46107</guid>
-<description>
-<![CDATA[ Recently we received several reports from the community that the RouteViews LiveStream service was missing events that were captured in the MRT archive. We were able to confirm that the LiveStream was missing events with the help of RIPE&#8217;s BGP beacon prefixes. To address this discrepancy, we developed a patch for FRR and are deployingContinue reading &#8594; ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p>Recently we received several reports from the community that the RouteViews LiveStream service was missing events that were captured in the MRT archive. We were able to confirm that the LiveStream was missing events with the help of RIPE&#8217;s <a href="https://ris.ripe.net/docs/routing-beacons/">BGP beacon prefixes</a>.</p> <p>To address this discrepancy, we developed a patch for FRR and are deploying it today on two large collectors (route-views.eqix / route-views.sg ). This update will allow us to configure pre-policy BMP on collectors. We tested this software previously and this is our final test before rolling out to the rest of the collectors in the coming week. This change will improve the fidelity of the LiveStream service.</p> <p>We submitted pull requests for this change in the upstream project and will work to have this fix tested and deployed once we see it in an upcoming release.</p> <p>One additional improvement will be the removal of AS6447 (RouteViews) from the AS-path in the LiveStream.</p> <p>Thanks to Pawel Foremski (author of bgpipe)  and Kentik Engineering team  for identifying this issue and helping us improve the LiveStream service.</p> <p>Please send questions to help@routeviews.org.</p> ]]>
-</content:encoded>
-</item>
-<item>
-<title>Name change for MRT file access</title>
-<link>https://www.routeviews.org/routeviews/2026/07/09/name-change-for-mrt-file-access/</link>
-<dc:creator>
-<![CDATA[ Hans Kuhn ]]>
-</dc:creator>
-<pubDate>Thu, 09 Jul 2026 18:04:12 +0000</pubDate>
-<category>
-<![CDATA[ Announcement ]]>
-</category>
-<category>
-<![CDATA[ News ]]>
-</category>
-<guid isPermaLink="false">https://www.routeviews.org/routeviews/?p=46096</guid>
-<description>
-<![CDATA[ MRT data for the route-views2.routeviews.org collector has historically been available from https://archive.routeviews.org/bgpdata/ using HTTP and rsync. This directory name does not match the collector hostname like the rest of the data directories, so we&#8217;ve changed the name so the url is now https://archive.routeviews.org/route-views2/ We created a symlink from the /bgpdata so that current HTTP-based workflowsContinue reading &#8594; ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p>MRT data for the <strong>route-views2.routeviews.org</strong> collector has historically been available from https://archive.routeviews.org/bgpdata/ using HTTP and rsync.</p> <p>This directory name does not match the collector hostname like the rest of the data directories, so we&#8217;ve changed the name so the url is now <a href="https://archive.routeviews.org/route-views2/">https://archive.routeviews.org/route-views2/</a></p> <p>We created a symlink from the /bgpdata so that current HTTP-based workflows will continue to work but we&#8217;d appreciate if you&#8217;d update your scripts to use the new name. For the small number of rsync users, you&#8217;ll be required to use /route-views2/ as rsync won&#8217;t follow the symlink and returns an error for /bgpdata/.</p> <p>Please send questions to help@routeviews.org.</p> ]]>
-</content:encoded>
-</item>
-<item>
-<title>LoCIX collector has a new name</title>
-<link>https://www.routeviews.org/routeviews/2026/03/05/locix-rename/</link>
-<dc:creator>
-<![CDATA[ Hans Kuhn ]]>
-</dc:creator>
-<pubDate>Thu, 05 Mar 2026 23:40:05 +0000</pubDate>
-<category>
-<![CDATA[ Announcement ]]>
-</category>
-<category>
-<![CDATA[ News ]]>
-</category>
-<guid isPermaLink="false">https://www.routeviews.org/routeviews/?p=45965</guid>
-<description>
-<![CDATA[ We have renamed the collector serving the LoCIX internet exchange. This collector, kindly provided by Marek Ziółkowski, was previously named route-views.amsix.routeviews.org. It had a change in role last year, and we decided to update the collector name to reflect its new role providing visibility at the LOCIX exchange. Previously it provided service to both LOCIXContinue reading &#8594; ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p>We have renamed the collector serving the LoCIX internet exchange. This collector, kindly provided by Marek Ziółkowski, was previously named route-views.amsix.routeviews.org.</p> <p>It had a change in role last year, and we decided to update the collector name to reflect its new role providing visibility at the LOCIX exchange. Previously it provided service to both LOCIX and AMSIX; we now provide service to AMSIX with the amsix.ams.routeviews.org collector.</p> <p>The new service names are:</p> <p>&#8211; MRT downloads: https://archive.routeviews.org/locix.fra/bgpdata<br />&#8211; Live stream topic: ^routeviews\.locix\.fra\.[0-9]+\.bmp_raw$</p> <p>Please reach out to help@routeviews.org if you have any questions.</p> <p class="wp-block-paragraph"></p> ]]>
-</content:encoded>
-</item>
-<item>
-<title>New Collector at DE-CIX Frankfurt, Germany</title>
-<link>https://www.routeviews.org/routeviews/2026/02/24/new-collector-at-de-cix-frankfurt-germany/</link>
-<dc:creator>
-<![CDATA[ Owen Conway ]]>
-</dc:creator>
-<pubDate>Tue, 24 Feb 2026 17:57:00 +0000</pubDate>
-<category>
-<![CDATA[ Announcement ]]>
-</category>
-<category>
-<![CDATA[ News ]]>
-</category>
-<guid isPermaLink="false">https://www.routeviews.org/routeviews/?p=45879</guid>
-<description>
-<![CDATA[ We have deployed a new collector at the DE-CIX Frankfurt, hosted by DE-CIX decix.fra.routeviews.org is now accepting peers. If you would like to participate by contributing your routes, please submit a peering request. We prefer FULL TABLE export if possible, and filter out RFC1918, NULL routes, and DEFAULT route.For more information, please refer to ourContinue reading &#8594; ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p class="wp-block-paragraph">We have deployed a new collector at the DE-CIX Frankfurt, hosted by <a href="https://www.de-cix.net/en/locations/frankfurt" data-type="link" data-id="https://crix.cr/">DE-CIX</a></p> <p class="wp-block-paragraph"></p> <p class="wp-block-paragraph">decix.fra.routeviews.org is now accepting peers. If you would like to participate by contributing your routes, please submit a peering request.</p> <p class="wp-block-paragraph">We prefer FULL TABLE export if possible, and filter out RFC1918, NULL routes, and DEFAULT route.<br>For more information, please refer to our <a href="https://www.routeviews.org/routeviews/2025/01/10/routeviews-peering-policy/">peering policy</a></p> <p class="wp-block-paragraph">Our peering details can be found at:</p> <p class="wp-block-paragraph"><a href="http://www.peeringdb.com/view.php?asn=6447">http://www.peeringdb.com/view.php?asn=6447</a></p> <p class="wp-block-paragraph">RouteViews has been a member of the Internet community for nearly 30 years. RouteViews operates data collectors throughout the world, and provides support to researchers and operators. Collectors serve as real-time operational tools, as well as data sources for the RouteViews central data archive. RouteViews data provides a significant source of information to the network community for the study of global routing dynamics.</p> <p class="wp-block-paragraph">Our success depends upon the cooperative spirit and generosity of our peers, associates, and members of the network community. RouteViews would like to thank DE-CIX Frankfurt for their support in establishing this collector, as well as the support of the members of the exchange community.</p> <p class="wp-block-paragraph">Additional resources related to this collector can be found here:</p> <p class="wp-block-paragraph">{rsync,http,ftp}://archive.routeviews.org/decix.fra/bgpdata</p> <p class="wp-block-paragraph">For additional information, please contact help@routeviews.org.<br>RouteViews AS6447</p> <p class="wp-block-paragraph"></p> ]]>
-</content:encoded>
-</item>
-<item>
-<title>New Collector at IXPN Lagos, Lagos, Nigeria</title>
-<link>https://www.routeviews.org/routeviews/2025/12/18/new-collector-at-ixpn-lagos-lagos-nigeria/</link>
-<dc:creator>
-<![CDATA[ Owen Conway ]]>
-</dc:creator>
-<pubDate>Thu, 18 Dec 2025 18:49:21 +0000</pubDate>
-<category>
-<![CDATA[ Announcement ]]>
-</category>
-<category>
-<![CDATA[ News ]]>
-</category>
-<guid isPermaLink="false">https://www.routeviews.org/routeviews/?p=45851</guid>
-<description>
-<![CDATA[ We have deployed a new collector at the IXPN Lagos, hosted by IXPN ixpn.los.routeviews.org is now accepting peers. If you would like to participate by contributing your routes, please submit a peering request. We prefer FULL TABLE export if possible, and filter out RFC1918, NULL routes, and DEFAULT route.For more information, please refer to ourContinue reading &#8594; ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p class="wp-block-paragraph">We have deployed a new collector at the IXPN Lagos, hosted by <a href="https://ixp.net.ng/" data-type="link" data-id="https://crix.cr/">IXPN</a></p> <p class="wp-block-paragraph"></p> <p class="wp-block-paragraph">ixpn.los.routeviews.org is now accepting peers. If you would like to participate by contributing your routes, please submit a peering request.</p> <p class="wp-block-paragraph">We prefer FULL TABLE export if possible, and filter out RFC1918, NULL routes, and DEFAULT route.<br>For more information, please refer to our <a href="https://www.routeviews.org/routeviews/2025/01/10/routeviews-peering-policy/">peering policy</a></p> <p class="wp-block-paragraph">Our peering details can be found at:</p> <p class="wp-block-paragraph"><a href="http://www.peeringdb.com/view.php?asn=6447">http://www.peeringdb.com/view.php?asn=6447</a></p> <p class="wp-block-paragraph">RouteViews has been a member of the Internet community for over 20 years. RouteViews operates data collectors throughout the world, and provides support to researchers and operators. Collectors serve as real-time operational tools, as well as data sources for the RouteViews central data archive. RouteViews data provides a significant source of information to the network community for the study of global routing dynamics.</p> <p class="wp-block-paragraph">Our success depends upon the cooperative spirit and generosity of our peers, associates, and members of the network community. RouteViews would like to thank IXPN for their support in establishing this collector, as well as the support of the members of the exchange community.</p> <p class="wp-block-paragraph">Additional resources related to this collector can be found here:</p> <p class="wp-block-paragraph">{rsync,http,ftp}://archive.routeviews.org/ixpn.los/bgpdata/</p> <p class="wp-block-paragraph">For additional information, please contact help@routeviews.org.<br>RouteViews AS6447</p> <p class="wp-block-paragraph"></p> ]]>
-</content:encoded>
-</item>
-<item>
-<title>All the new things – RouteViews in 2025</title>
-<link>https://www.routeviews.org/routeviews/2025/12/17/all-the-new-things-routeviews-in-2025/</link>
-<dc:creator>
-<![CDATA[ Nina Bargisen ]]>
-</dc:creator>
-<pubDate>Thu, 18 Dec 2025 04:55:48 +0000</pubDate>
-<category>
-<![CDATA[ blog ]]>
-</category>
-<category>
-<![CDATA[ API ]]>
-</category>
-<category>
-<![CDATA[ Collectors ]]>
-</category>
-<category>
-<![CDATA[ Feedback ]]>
-</category>
-<category>
-<![CDATA[ Infrastructure ]]>
-</category>
-<category>
-<![CDATA[ Locations ]]>
-</category>
-<category>
-<![CDATA[ Looking Glass ]]>
-</category>
-<category>
-<![CDATA[ Measurement ]]>
-</category>
-<category>
-<![CDATA[ Network Bottlenecks ]]>
-</category>
-<category>
-<![CDATA[ Network Performance ]]>
-</category>
-<category>
-<![CDATA[ Noisy Peers ]]>
-</category>
-<category>
-<![CDATA[ Peering ]]>
-</category>
-<category>
-<![CDATA[ Peering Policy ]]>
-</category>
-<category>
-<![CDATA[ Research ]]>
-</category>
-<category>
-<![CDATA[ Supporters ]]>
-</category>
-<category>
-<![CDATA[ Tools ]]>
-</category>
-<guid isPermaLink="false">https://www.routeviews.org/routeviews/?p=45820</guid>
-<description>
-<![CDATA[ As 2025 draws to a close, we want to share what we&#8217;ve been working on this year in the RouteViews team. New collectors, new tools, new ways to access our data, and a lot of behind-the-scenes work to make the platform more stable, sustainable, and useful for everyone. What we do at RouteViews RouteViews existsContinue reading &#8594; ]]>
-</description>
-<content:encoded>
-<![CDATA[ <div class="has-text-align-left wp-block-post-author"><div class="wp-block-post-author__avatar"><img alt='' src='https://www.routeviews.org/routeviews/wp-content/uploads/2025/01/nina-bargisen_avatar_1-48x48.jpg' srcset='https://www.routeviews.org/routeviews/wp-content/uploads/2025/01/nina-bargisen_avatar_1-96x96.jpg 2x' class='avatar avatar-48 photo' height='48' width='48' /></div><div class="wp-block-post-author__content"><p class="wp-block-post-author__byline"><strong>Posted by RouteViews Peering Coordinator</strong></p><p class="wp-block-post-author__name">Nina Bargisen</p></div></div> <p>As 2025 draws to a close, we want to share what we&#8217;ve been working on this year in the RouteViews team. New collectors, new tools, new ways to access our data, and a lot of behind-the-scenes work to make the platform more stable, sustainable, and useful for everyone.</p> <h3><strong>What we do at RouteViews</strong></h3> <p>RouteViews exists to collect BGP routing tables (RIBs) and updates, archive them, and make the data available to the Internet operations and research communities. We do this by operating a platform of route collectors connected to Internet Exchanges (IXPs) throughout the world. We collect the BGP data by peering with the networks that make up the Internet.</p> <p>RouteViews data are widely used by researchers, vendors and operators. Debugging routing issues, monitoring prefixes to discover and mitigate hijacks, understanding the evolution of the Internet, the deployment of new protocols and security technologies and the evolution of the topology of the Internet are just some of the ways our data are being used. The data are freely available for everyone – peers as well as non-peers.</p> <p>RouteViews is managed by the <a href="https://nsrc.org">Network Startup Resource Center</a> at the <a href="https://www.uoregon.edu/">University of Oregon</a>. We work with colleagues at the <a href="https://www.ripe.net/ris/">RIPE Routing Information Service</a> (RIS) in Europe to coordinate what we learn about real-world Internet routing with the objective of creating data redundancy, resiliency, and maximizing visibility of the Internet’s global routing table.</p> <h3><strong>Peering policy</strong></h3> <p>We started the year by finalizing and publishing our <a href="https://www.routeviews.org/routeviews/2025/01/10/routeviews-peering-policy/">selective peering policy</a>. Calling it &#8220;selective&#8221; is mostly a matter of semantics — we still actively seek new peers. But the policy gives us clear reasons to decline requests for operational and capacity reasons. There is no value in collecting the same routes from both route servers and bilateral sessions, or in dealing with instability from experimental networks.</p> <p>More importantly, the policy articulates why we peer and what we are looking for: full routes from networks that are well connected in their region, so we can capture what is actually happening on the Internet. Both at the edges of the Internet and at the global hubs.</p> <p>You can read the full policy on the RouteViews website <a href="https://www.routeviews.org/routeviews/2025/01/10/routeviews-peering-policy/">here</a>.</p> <h3><strong>New Locations </strong></h3> <p>We deployed 8 new collectors in 2025, with 1 more on the way. This means we are now present at:</p> <ul> <li>CRIX, San Jose, Costa Rica</li> <li>GetaFIX Manila, Cebu and Davao &#8211; Philippines</li> <li>HKIX, Hong Kong</li> <li>IIX, Jakarta, Indonesia</li> <li>Interlan, Bucharest, Romania</li> <li>IXPN, Lagos, Nigeria</li> <li>Netnod, Stockholm,Sweden, and Copenhagen, Denmark</li> </ul> <p>Most of these are in locations where we had no presence before. Only route-views8 is a capacity upgrade for our existing multi-hop setup — the rest are expanding our view into new parts of the Internet, in line with our policy focus on edge visibility.</p> <p>The more full-routes peers we have from a region, the more vantage points we have for our data, and the better our snapshots of the Internet become.</p> <p>At the time of writing, we have 883 sessions receiving full routes from 277 unique ASNs. That&#8217;s an increase of around 20% over the year, with more than 50 existing peers agreeing to change their routing policy to send us full routes, and 28 entirely new peers with full routes. We have also formed partnerships with some global content providers and Content Delivery Networks (CDNs) that now share their diverse views from local ecosystems within their markets. We will continue this work in 2026.</p> <p>Our storage space for RIBs and UPDATES grew with 11.1 TB to 67 TB in total. This growth is partly due to the higher number of peers and full routes peers, but is also driven by the growth of the sizes of the global routing table. The largest RIBs we see from full route peers are 1.1 million prefixes for IPv4 and 253 thousand prefixes for IPv6. Unfortunately, we have a second driver for the growth: noisy peers.</p> <h3><strong>Noisy peers</strong></h3> <p>RIB sizes have grown fairly steadily as a direct consequence of adding/losing peers over time, IPv6 growth, and IPv4 /24 fragmentation. This is generally something we can predict for, and in fact we have done simple linear regression to predict growth over the next 5 years.</p> <p>In contrast, we see the much more unpredictable pattern in the growth of storage consumption for UPDATES. Take a look at the graph below. The last bump is large due to an increase in messages from a single ASN. These events are hard to predict and are often due to configuration errors, software bugs, or instability inside the operator’s network.</p> <p><img decoding="async" src="https://www.routeviews.org/routeviews/wp-content/uploads/2025/12/noisy-peers-rv-blog-dec2025.png" alt="Noisy Peers: last bump is large due to an increase in messages from a single ASN" /></p> <p>We&#8217;ve done several things behind the scenes to improve monitoring and visualization of these noisy peer events when they happen. However, we&#8217;re still navigating the decision making between the philosophies of &#8220;recording everything we see&#8221; and &#8220;this noise will fill our disks and future researchers will be annoyed at us.&#8221;</p> <h3><strong>Internal tooling</strong></h3> <p>Implementing a new peering policy turns out to be an excellent driver for building tools. When you need to evaluate peering requests, you need to quickly get an overview of the data that informs the decision — do we already see this network&#8217;s prefixes? From where? Via route servers or bilateral sessions?</p> <p>Our internal RouteViews toolset has grown considerably this year. We now have tools that show a requesting ASN&#8217;s BGP information (originated prefixes, existing sessions, route server sessions), tools that auto-generate session configuration or amend existing configuration and tools that can help us decide which ASNs we want to ask for full sessions and which IXPs would be the best to connect to to gain the best insight into a region&#8217;s Internet ecosystem. One major change in our internal tooling is that we now use the RouteViews API whenever we need data related to BGP, whether it is related to ASNs on the Internet or peering sessions and more instead of logging into the individual collectors or downloading MRT files.</p> <p>All this means we can respond to peering requests faster and make better informed decisions about where to deploy collectors and who to reach out to for peering.</p> <h3><strong>API improvements</strong></h3> <p>During the year, We have been preparing the <a href="https://api.routeviews.org/">RouteViews API</a> to scale to include all our collectors. At the same time, we added several new endpoints, mostly driven by our own internal tooling.</p> <p>The new endpoints include:</p> <pre>/rib/peers</pre> <p>&#8211; returns information about the peering sessions on the routeviews collectors.</p> <pre>/rib/adjacent_asns/ASN</pre> <p>— returns sessions where at least one of the announced routes starts with the query ASN. This is useful for identifying route server sessions, and was built specifically because we needed a fast way to see if we already receive a requester&#8217;s prefixes via route servers.</p> <pre>/rib/prefixes-from-peer/PEER-ASN/PEER-IP</pre> <p>— returns the prefixes learned from a specific BGP session, with support for regexp and community filtering.</p> <p>Some of the new endpoints enable us to perform some of the common BGP queries programmatically using API data instead of logging into a collector and to perform those queries over data from more than one collector. If you “only” need to do a few one off queries, we built another tool for you.</p> <h3><strong>The RouteViews Looking Glass</strong></h3> <p>In May we launched the RouteViews Looking Glass at <a href="https://lg.routeviews.org/">https://lg.routeviews.org/</a>. The Looking Glass provides the most common BGP commands through a web interface, and you can select any of our collectors. You can view routing tables, BGP summaries, and specific prefix paths directly, making it easier to analyze routing behavior across different parts of the global Internet. Currently the Looking Glass runs the commands on the collectors using telnet, but eventually it will use our API instead. If you haven&#8217;t tried the looking glass yet, try it out at lg.routeviews.org — and let us know if your favorite command is missing. If you&#8217;re building tools on top of our data or API, we&#8217;d love to hear what you&#8217;re doing with it.</p> <h3><strong>Backend infrastructure and Bimper</strong></h3> <p>The new API endpoints pull their data from our Kafka streaming infrastructure — the same feed that powers <a href="https://stream.routeviews.org/">stream.routeviews.org</a>.</p> <p>We refreshed the Kafka streaming cluster with new hardware and we developed a replacement for OpenBMPd, the software we use to receive BGP Monitoring Protocol data from our collectors and forward it to Kafka for downstream analysis and storage.</p> <p>OpenBMPd had stability issues under our load, so we wrote our own. We call it Bimper. It is a specialized high-performance BMP message processor with Prometheus metrics integration for operational visibility. It comes with bimperctl, a control utility for managing and monitoring bimper instances. The messages bimper produces are compatible with the &#8220;raw BMP&#8221; format that OpenBMPd used, so existing downstream tools continue to work.</p> <p>Bimper is a monitoring powerhouse in particular in our work with noisy peers. We collect metrics that help us assess the impact of a noisy peer, particularly on our live streaming infrastructure.The data also helps when we engage with noisy peers — we can point them to the live stream so they can see what we see and help solve the problem.</p> <h3><strong>Research</strong></h3> <p>RouteViews now has a Digital Object Identifier (DOI), so you can cite the project properly in your research papers and publications. For citations, our DOI is <strong>10.7264/1y7v-2d90</strong></p> <p>We are thrilled to see that the long list of papers and projects using our data continued to grow in 2025. While operational needs drive the day-to-day use of RouteViews, we are excited to follow the new knowledge presented by those who study and measure Internet routing.</p> <p>If you use RouteViews data for research projects and publications, please acknowledge the value of this information for your research activities.</p> <p><strong>Supporters</strong></p> <p>None of the work we do would be possible without the support from our funders, sponsors, hosts of collectors and collaborators in general. RouteViews is a project rooted in the operator and the research communities, we work to collect and preserve data valuable for both and collaborate widely to make sure we support the communities in the best possible way.</p> <p>In 2025, RouteViews received valuable financial contributions from:</p> <p><strong>Amazon, Catchpoint, Google, Internet Corporation for Assigned Names and Numbers, Internet Society, Internet Society Foundation, Jim and Joan Forster, MaxMind, National Science Foundation, Silicon Valley Foundation, Verisign, and Vint and Sigrid Cerf.</strong></p> <p>We want to thank all our supporters for the help that enables us to extend and preserve the oldest and most comprehensive BGP data archive, that documents the Internet’s evolution, second by second, in continuous time.</p> <p>Questions, feedback, or peering requests — <a href="mailto:help@routeviews.org">help@routeviews.org</a> is always open and happy to hear from the community.</p> <p class="wp-block-paragraph"></p> ]]>
-</content:encoded>
-</item>
-<item>
-<title>New Collector at CRIX, San José , Costa Rica</title>
-<link>https://www.routeviews.org/routeviews/2025/12/01/new-collector-at-crix-san-jose-costa-rica/</link>
-<dc:creator>
-<![CDATA[ Owen Conway ]]>
-</dc:creator>
-<pubDate>Mon, 01 Dec 2025 22:51:06 +0000</pubDate>
-<category>
-<![CDATA[ Announcement ]]>
-</category>
-<category>
-<![CDATA[ News ]]>
-</category>
-<guid isPermaLink="false">https://www.routeviews.org/routeviews/?p=45722</guid>
-<description>
-<![CDATA[ We have deployed a new collector at the CRIX, hosted by CRIX crix.sjo.routeviews.org is now accepting peers. If you would like to participate by contributing your routes, please submit a peering request. We prefer FULL TABLE export if possible, and filter out RFC1918, NULL routes, and DEFAULT route.For more information, please refer to our peeringContinue reading &#8594; ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p class="wp-block-paragraph">We have deployed a new collector at the CRIX, hosted by <a href="https://crix.cr/" data-type="link" data-id="https://crix.cr/">CRIX</a></p> <p class="wp-block-paragraph"></p> <p class="wp-block-paragraph">crix.sjo.routeviews.org is now accepting peers. If you would like to participate by contributing your routes, please submit a peering request.</p> <p class="wp-block-paragraph">We prefer FULL TABLE export if possible, and filter out RFC1918, NULL routes, and DEFAULT route.<br>For more information, please refer to our <a href="https://www.routeviews.org/routeviews/2025/01/10/routeviews-peering-policy/">peering policy</a></p> <p class="wp-block-paragraph">Our peering details can be found at:</p> <p class="wp-block-paragraph"><a href="http://www.peeringdb.com/view.php?asn=6447">http://www.peeringdb.com/view.php?asn=6447</a></p> <p class="wp-block-paragraph">RouteViews has been a member of the Internet community for over 20 years. RouteViews operates data collectors throughout the world, and provides support to researchers and operators. Collectors serve as real-time operational tools, as well as data sources for the RouteViews central data archive. RouteViews data provides a significant source of information to the network community for the study of global routing dynamics.</p> <p class="wp-block-paragraph">Our success depends upon the cooperative spirit and generosity of our peers, associates, and members of the network community. RouteViews would like to thank CRIX for their support in establishing this collector, as well as the support of the members of the exchange community.</p> <p class="wp-block-paragraph">Additional resources related to this collector can be found here:</p> <p class="wp-block-paragraph">{rsync,http,ftp}://archive.routeviews.org/crix.sjo/bgpdata/</p> <p class="wp-block-paragraph">For additional information, please contact help@routeviews.org.<br>RouteViews AS6447</p> <p class="wp-block-paragraph"></p> ]]>
-</content:encoded>
-</item>
-<item>
-<title>New Collector at IIX-Jakarta, Indonesia</title>
-<link>https://www.routeviews.org/routeviews/2025/11/14/new-collector-at-iix-jakarta-indonesia/</link>
-<dc:creator>
-<![CDATA[ Owen Conway ]]>
-</dc:creator>
-<pubDate>Fri, 14 Nov 2025 17:08:29 +0000</pubDate>
-<category>
-<![CDATA[ Announcement ]]>
-</category>
-<category>
-<![CDATA[ News ]]>
-</category>
-<guid isPermaLink="false">https://www.routeviews.org/routeviews/?p=45698</guid>
-<description>
-<![CDATA[ We have deployed a new collector at the IIX-Jakarta Exchange, hosted by APJII iix.cgk.routeviews.org is now accepting peers. If you would like to participate by contributing your routes, please submit a peering request. We prefer FULL TABLE export if possible, and filter out RFC1918, NULL routes, and DEFAULT route.For more information, please refer to ourContinue reading &#8594; ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p class="wp-block-paragraph">We have deployed a new collector at the IIX-Jakarta Exchange, hosted by<a href="https://apjii.or.id/"> APJII</a></p> <p class="wp-block-paragraph"></p> <p class="wp-block-paragraph">iix.cgk.routeviews.org is now accepting peers. If you would like to participate by contributing your routes, please submit a peering request.</p> <p class="wp-block-paragraph">We prefer FULL TABLE export if possible, and filter out RFC1918, NULL routes, and DEFAULT route.<br>For more information, please refer to our <a href="https://www.routeviews.org/routeviews/2025/01/10/routeviews-peering-policy/">peering policy</a></p> <p class="wp-block-paragraph">Our peering details can be found at:</p> <p class="wp-block-paragraph"><a href="http://www.peeringdb.com/view.php?asn=6447">http://www.peeringdb.com/view.php?asn=6447</a></p> <p class="wp-block-paragraph">RouteViews has been a member of the Internet community for over 20 years. RouteViews operates data collectors throughout the world, and provides support to researchers and operators. Collectors serve as real-time operational tools, as well as data sources for the RouteViews central data archive. RouteViews data provides a significant source of information to the network community for the study of global routing dynamics.</p> <p class="wp-block-paragraph">Our success depends upon the cooperative spirit and generosity of our peers, associates, and members of the network community. RouteViews would like to thank APJII for their support in establishing this collector at IIX-Jakarta, as well as the support of the members of the exchange community.</p> <p class="wp-block-paragraph">Additional resources related to this collector can be found here:</p> <p class="wp-block-paragraph">{rsync,http,ftp}://archive.routeviews.org/iix.cgk/bgpdata/</p> <p class="wp-block-paragraph">For additional information, please contact help@routeviews.org.<br>RouteViews AS6447</p> ]]>
-</content:encoded>
-</item>
-<item>
-<title>New Collector at Netnod Stockholm, Sweden / Copenhagen, Denmark</title>
-<link>https://www.routeviews.org/routeviews/2025/11/04/new-collector-at-netnod-stockholm-sweden-copenhagen-denmark/</link>
-<dc:creator>
-<![CDATA[ Owen Conway ]]>
-</dc:creator>
-<pubDate>Tue, 04 Nov 2025 19:30:44 +0000</pubDate>
-<category>
-<![CDATA[ Announcement ]]>
-</category>
-<category>
-<![CDATA[ News ]]>
-</category>
-<guid isPermaLink="false">https://www.routeviews.org/routeviews/?p=45684</guid>
-<description>
-<![CDATA[ We have deployed a new collector at the Netnod Stockholm and Netnod Copenhagen Exchanges, hosted by 31173 Services AB We are present at both BLUE/GREEN Exchanges in Stockholm, Sweden (on both 1500/4470 MTU) LANS and on both BLUE/GREEN LANs in Copenhagen, Denmark. netnod.mmx.routeviews.org is now accepting peers. If you would like to participate by contributingContinue reading &#8594; ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p class="wp-block-paragraph">We have deployed a new collector at the Netnod Stockholm and Netnod Copenhagen Exchanges, hosted by <a href="http://www.31173.se/">31173 Services AB</a></p> <p class="wp-block-paragraph">We are present at both BLUE/GREEN Exchanges in Stockholm, Sweden (on both 1500/4470 MTU) LANS and on both BLUE/GREEN LANs in Copenhagen, Denmark.</p> <p class="wp-block-paragraph"></p> <p class="wp-block-paragraph">netnod.mmx.routeviews.org is now accepting peers. If you would like to participate by contributing your routes, please submit a peering request.</p> <p class="wp-block-paragraph">We prefer FULL TABLE export if possible, and filter out RFC1918, NULL routes, and DEFAULT route.<br>For more information, please refer to our <a href="https://www.routeviews.org/routeviews/2025/01/10/routeviews-peering-policy/">peering policy</a></p> <p class="wp-block-paragraph">Our peering details can be found at:</p> <p class="wp-block-paragraph"><a href="http://www.peeringdb.com/view.php?asn=6447">http://www.peeringdb.com/view.php?asn=6447</a></p> <p class="wp-block-paragraph">RouteViews has been a member of the Internet community for over 20 years. RouteViews operates data collectors throughout the world, and provides support to researchers and operators. Collectors serve as real-time operational tools, as well as data sources for the RouteViews central data archive. RouteViews data provides a significant source of information to the network community for the study of global routing dynamics.</p> <p class="wp-block-paragraph">Our success depends upon the cooperative spirit and generosity of our peers, associates, and members of the network community. RouteViews would like to thank Netnod and 31173 Services AB for their support in establishing this collector at Netnod, as well as the support of the members of the exchange community.</p> <p class="wp-block-paragraph">Additional resources related to this collector can be found here:</p> <p class="wp-block-paragraph">{rsync,http,ftp}://archive.routeviews.org/netnod.mmx/bgpdata/</p> <p class="wp-block-paragraph">For additional information, please contact help@routeviews.org.<br>RouteViews AS6447</p> ]]>
-</content:encoded>
-</item>
-</channel>
-</rss>
-<!-- 
-Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/?utm_source=w3tc&utm_medium=footer_comment&utm_campaign=free_plugin
-
-Object Caching 33/88 objects using APC
-Page Caching using Disk: Enhanced 
-Database Caching 9/22 queries in 0.006 seconds using Memcached
-
-Served from: www.routeviews.org @ 2026-09-09 09:32:33 by W3 Total Cache
- -->
+<!-- wp:heading {"level":1,"className":"font_0 wixui-rich-text__text"} -->
+<h1 class="wp-block-heading font_0 wixui-rich-text__text"></h1>
+<!-- /wp:heading -->
