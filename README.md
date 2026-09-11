@@ -1,3 +1,173 @@
+<!-- wp:paragraph -->
+<p><a href="https://apps.police.go.th/index.php">RTP Application Center</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="http://www.hightechcrime.org/fb-tips" target="_blank" rel="noreferrer noopener"><img src="https://apps.police.go.th/images/icon/article.png" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>พันตำรวจโทวิศิษฎ์ ทองโม้</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>การใช้ Facebook อย่างปลอดภัย</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="http://www.hightechcrime.org/phishing" target="_blank" rel="noreferrer noopener"><img src="https://apps.police.go.th/images/icon/article.png" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>พันตำรวจโทวิศิษฎ์ ทองโม้</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>เตือนภัย Phishing Email</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://sites.google.com/a/hightechcrime.org/www/usb" target="_blank" rel="noreferrer noopener"><img src="https://apps.police.go.th/images/icon/article.png" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>พันตำรวจโทวิศิษฎ์ ทองโม้</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>ป้องกันการติดไวรัสคอมพิวเตอร์จาก USB Flash Drive</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://sites.google.com/a/hightechcrime.org/www/wifi" target="_blank" rel="noreferrer noopener"><img src="https://apps.police.go.th/images/icon/article.png" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>พันตำรวจโทวิศิษฎ์ ทองโม้</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>แนะนำวิธีการป้องกันข้อมูลรั่วไหลจากการใช้ WiFi</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://sites.google.com/a/hightechcrime.org/www/hlxk-khay-sinkha" target="_blank" rel="noreferrer noopener"><img src="https://apps.police.go.th/images/icon/article.png" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>พันตำรวจโทวิศิษฎ์ ทองโม้</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>ทำอย่างไร เมื่อตกเป็นเหยื่อถูกหลอกขายสินค้า</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://sites.google.com/a/hightechcrime.org/www/skimmer" target="_blank" rel="noreferrer noopener"><img src="https://apps.police.go.th/images/icon/article.png" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>พันตำรวจโทวิศิษฎ์ ทองโม้</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>การป้องกันคนร้ายขโมยข้อมูลบัตร ATM</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://sites.google.com/a/hightechcrime.org/www/kar-caeng-lb-khlip-bn-youtube-com" target="_blank" rel="noreferrer noopener"><img src="https://apps.police.go.th/images/icon/article.png" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>พันตำรวจโทวิศิษฎ์ ทองโม้</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>การแจ้งลบคลิปวิดีโอบน youtube.com</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="http://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=aGlnaHRlY2hjcmltZS5vcmd8d3d3fGd4OjNhZTRiODE1Y2M1YzYyMTg" target="_blank" rel="noreferrer noopener"><img src="https://apps.police.go.th/images/icon/article.png" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>พันตำรวจโทวิศิษฎ์ ทองโม้</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>การแก้ไขปัญหาสื่อสังคมออนไลน์อย่างยั่งยืน โดย พ.ต.อ.นิเวศน์ อาภาวศิน</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="http://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=aGlnaHRlY2hjcmltZS5vcmd8d3d3fGd4Ojc4ZjEwYmY4MDM3NDBhZWI" target="_blank" rel="noreferrer noopener"><img src="https://apps.police.go.th/images/icon/article.png" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>พันตำรวจโทวิศิษฎ์ ทองโม้</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>มหันตภัยร้าย WannaCry Ransomware</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=aGlnaHRlY2hjcmltZS5vcmd8d3d3fGd4OjM5ZjIwNWQzMjA5YzNkZjM" target="_blank" rel="noreferrer noopener"><img src="https://apps.police.go.th/images/icon/article.png" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>พันตำรวจโทวิศิษฎ์ ทองโม้</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>พ.ร.บ.ว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ (ฉบับที่ 2) พ.ศ.2560</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>สงวนลิขสิทธิ์ พ.ศ. 2560 กลุ่มงานอินเทอร์เน็ต กองบังคับการสนับสนุนทางเทคโนโลยี</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://apps.police.go.th/public.php#" class="sidebar-icon"></a><a href="https://apps.police.go.th/public.php#"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul id="menu" class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://apps.police.go.th/index.php">หน้าหลัก</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://apps.police.go.th/recommend.php">แอปฯ แนะนำ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://apps.police.go.th/public.php">ข้อมูลเผยแพร่</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://apps.police.go.th/contact.php">ติดต่อเรา</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
 [https://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf](https://device.report/siterwell/gs536)
 
 [https://device.report/siterwell/gs536](S/N:25BFA58S08277)
