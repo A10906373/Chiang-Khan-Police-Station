@@ -1,5 +1,7 @@
+<img width="92" height="92" alt="5964" src="https://github.com/user-attachments/assets/5370f819-5f8b-4b9b-9b75-2ce146cf8d30" />
+
 <!-- wp:paragraph -->
-<p>ตำรวจท่องเที่ยงจังหวัดเลย</p>
+<p>ตำรวจท่องเที่ยงจังหวัดเลย พันตำรวจโทวิศิษฎ์ ทองโม้ รอง.สวป.ภาคส่วน จ่าสิบเอกชวลิตร เวรสวัสดิ์ ผู้กองท่องเที่ยว</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
