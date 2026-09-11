@@ -1,3 +1,11 @@
+[https://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf](https://device.report/siterwell/gs536)
+
+[https://device.report/siterwell/gs536](S/N:25BFA58S08277)
+
+[https://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf](https://th.manuals.plus/baofeng/two-way-uhf-handheld-transceiver-manual)
+
+[https://th.wikipedia.org/w/index.php?title=%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B8%A2&oldid=13261642](S/N:25BFA58S08277)
+
 <!-- wp:paragraph -->
 <p>สภ.ภายใต้สำนักงานตำรวจแห่งชาติ</p>
 <!-- /wp:paragraph -->
